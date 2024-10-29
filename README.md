@@ -44,17 +44,17 @@ Al ejecutar la aplicación, el programa:
 
 ### Clase Principal
 
-* <a>Principal.java:</a> Punto de entrada de la aplicación. Crea instancias de ```Cancion``` y ```Podcast```, incrementa sus contadores y muestra los resultados.
+* *Principal.java:* Punto de entrada de la aplicación. Crea instancias de ```Cancion``` y ```Podcast```, incrementa sus contadores y muestra los resultados.
 
 ### Modelo de Datos
 
-* <a>Audio.java:</a> Clase base que incluye los atributos comunes a Cancion y Podcast, como título, total de reproducciones y "me gusta".
+* *Audio.java:* Clase base que incluye los atributos comunes a Cancion y Podcast, como título, total de reproducciones y "me gusta".
 
-* <a>Cancion.java:</a> Subclase de ```Audio``` que representa una canción. Añade atributos específicos como álbum, cantante y género.
+* *Cancion.java:* Subclase de ```Audio``` que representa una canción. Añade atributos específicos como álbum, cantante y género.
 
-* <a>Podcast.java:</a> Subclase de ```Audio``` que representa un podcast. Añade atributos específicos como presentador y descripción.
+* *Podcast.java:* Subclase de ```Audio``` que representa un podcast. Añade atributos específicos como presentador y descripción.
 
-* <a>MisFavoritos.java:</a> Clase para gestionar una lista de favoritos, destacando aquellos con alta clasificación.
+* *MisFavoritos.java:* Clase para gestionar una lista de favoritos, destacando aquellos con alta clasificación.
 
 ### Autor
 William German Aranguren Buitrago - https://github.com/Nerug-Programador

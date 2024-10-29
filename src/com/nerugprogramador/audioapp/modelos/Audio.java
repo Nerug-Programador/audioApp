@@ -1,4 +1,4 @@
-package com.nerugprogramador.audioaApp.modelos;
+package com.nerugprogramador.audioapp.modelos;
 
 public class Audio {
     private String titulo;

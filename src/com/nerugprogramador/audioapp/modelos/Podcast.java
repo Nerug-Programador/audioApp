@@ -1,4 +1,4 @@
-package com.nerugprogramador.audioaApp.modelos;
+package com.nerugprogramador.audioapp.modelos;
 
 public class Podcast extends Audio{
     private String presentador;

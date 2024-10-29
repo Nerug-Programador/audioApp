@@ -1,6 +1,6 @@
 package com.nerugprogramador.audioapp.modelos;
 
-public class MisFavoriotos {
+public class MisFavoritos {
     public void adiciona(Audio audio) {
         if (audio.getClasificacion() >= 8) {
             System.out.println(audio.getTitulo() + " Este es uno de los favoriotos del momento");

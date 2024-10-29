@@ -1,7 +1,7 @@
 package com.nerugprogramador.audioapp.principal;
 
 import com.nerugprogramador.audioapp.modelos.Cancion;
-import com.nerugprogramador.audioapp.modelos.MisFavoriotos;
+import com.nerugprogramador.audioapp.modelos.MisFavoritos;
 import com.nerugprogramador.audioapp.modelos.Podcast;
 
 public class Principal {
@@ -31,7 +31,7 @@ public class Principal {
         System.out.println("Total de reproducciones: " + miCancion.getTotalDeReproducciones());
         System.out.println("Total de Me Gusta: " + miCancion.getTotalDeMeGusta());
 
-        MisFavoriotos favoriotos = new MisFavoriotos();
+        MisFavoritos favoriotos = new MisFavoritos();
         favoriotos.adiciona(miPodcast);
         favoriotos.adiciona(miCancion);
     }

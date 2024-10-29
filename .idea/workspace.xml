@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ad96c79b-ff37-410f-935d-8aac2a7cd498" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/nerugprogramador/audioapp/principal/Principal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/nerugprogramador/audioaApp/modelos/Audio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/nerugprogramador/audioapp/modelos/Audio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/nerugprogramador/audioaApp/modelos/Cancion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/nerugprogramador/audioapp/modelos/Cancion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/nerugprogramador/audioaApp/modelos/Podcast.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/nerugprogramador/audioapp/modelos/Podcast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nerugprogramador/audioapp/modelos/MisFavoriotos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nerugprogramador/audioapp/modelos/Cancion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/nerugprogramador/audioapp/modelos/Cancion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nerugprogramador/audioapp/modelos/Podcast.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/nerugprogramador/audioapp/modelos/Podcast.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nerugprogramador/audioapp/principal/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/nerugprogramador/audioapp/principal/Principal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

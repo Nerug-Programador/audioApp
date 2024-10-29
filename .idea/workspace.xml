@@ -5,15 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ad96c79b-ff37-410f-935d-8aac2a7cd498" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/nerugprogramador/audioaApp/modelos/Audio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/nerugprogramador/audioaApp/modelos/Cancion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/nerugprogramador/audioaApp/modelos/Podcast.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
